@@ -11,4 +11,4 @@ redirect_from:
 
 <iframe src="{{ site.baseurl }}/files/Amreeta_Das_CV_2024.pdf" width="100%" height="800px"></iframe>
 
-You can [download a copy of my CV here]({{ site.baseurl }}/files/Amreeta_Das_CV_2024.pdf).
+You can [download a copy of my CV here]({{ site.baseurl }}/files/Das_CV_Sep2025.pdf).
