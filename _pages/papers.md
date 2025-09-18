@@ -7,6 +7,8 @@ author_profile: true
 ---
 ## Working Papers
 
+”Decoding Digital Campaigning with Deep Learning: Evidence from India”
+
 
 ["Are There Spillovers in the Representation of Excluded Groups?"]({{ site.baseurl }}/files/Spillovers_Das_Dasgupta.pdf) with Aditya Dasgupta
 
