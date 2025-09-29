@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Papers"
+title: "Research"
 
-permalink: /papers/
+permalink: /research/
 author_profile: true
 ---
 ## Working Papers
