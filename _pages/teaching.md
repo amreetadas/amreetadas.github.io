@@ -14,4 +14,4 @@ author_profile: true
 
 * Introduction to Comparative Politics (Fall 2021, Fall 2022)
 * Introduction to Cognitive Science (Spring 2022)
-* Understanding Political Controversies (Undergraduate methods) (Spring 2023)
+* Understanding Political Controversies (Intro to Stats/ Research Design) (Spring 2023)
