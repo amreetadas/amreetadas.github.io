@@ -27,3 +27,7 @@ author_profile: true
 **Summary:** Electing women or Muslim MPs does not improve subsequent representation of these groups in nearby or lower-level elections. Using regression discontinuity analysis of close elections, the study finds largely null effects on candidate entry, vote share, and win probabilities for both vertical spillovers (to nested state constituencies) and horizontal spillovers (to nearby parliamentary constituencies), challenging theories about demonstration and exposure effects.
 
 **AI/Deep Learning Applications:** Bidirectional LSTM trained on 1+ million labeled records to predict candidate religious identity from South Asian names with 99% accuracy, enabling automated classification across thousands of candidate names.
+
+## Other Publications
+
+["AI-Enabled Policy Project (AIPP) Convening: Bringing Together Technology and Policy Experts on Using AI to Improve Policymaking"](https://www.rand.org/pubs/conf_proceedings/CFA4214-1.html) with Emily Lathrop, Anton Shenk, Dulani Woods, Lauren Wagner, Galen Hines-Pierce, Jeff Alstott, Casey Dugan
